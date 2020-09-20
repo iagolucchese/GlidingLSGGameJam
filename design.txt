@@ -1,0 +1,5 @@
+-gliding
+-pontos por passar perto de obstaculos
+-passar perto de um lugar apertado multiplica os pontos
+
+-coletaveis pra ficar voando
